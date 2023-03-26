@@ -1,4 +1,4 @@
-A music and ARM Linux Guy
+A music and ARM Linux Guy. Makes alot of converters
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A0EXCF5)
 
